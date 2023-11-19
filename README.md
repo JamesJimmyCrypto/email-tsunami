@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/qqeoIIo.png" />
-</p>
 
 # email-tsunami v 1.0
 
